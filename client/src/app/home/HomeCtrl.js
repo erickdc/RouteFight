@@ -1,7 +1,7 @@
 (function() {
     'use strict';
     angular.module('routeFightApp')
-        .controller('HomeCtrl', [UserCtrl])
+        .controller('HomeCtrl', [HomeCtrl])
 
             function HomeCtrl() {
                 var vm = this;
