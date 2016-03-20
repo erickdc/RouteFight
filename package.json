@@ -9,6 +9,7 @@
   "author": "Erick Caballero",
   "license": "ISC",
   "dependencies": {
-    "hapi": "^13.2.1"
+    "hapi": "^13.2.1",
+    "inert": "^3.2.0"
   }
 }
