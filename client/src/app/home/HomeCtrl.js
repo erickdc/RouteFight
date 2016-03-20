@@ -1,9 +1,9 @@
 (function() {
     'use strict';
     angular.module('routeFightApp')
-        .controller('HomeCtrl', HomeCtrl)
+        .controller('HomeCtrl', HomeController);
 
-            function HomeCtrl() {
+            function HomeController() {
                 var vm = this;
                 vm.Titulo = 'holis';
             }
